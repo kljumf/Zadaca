@@ -1,4 +1,4 @@
-package osnove;
+package Osnove;
 
 //(Financial application: calculate interest) If you know the balance and
 // the annual

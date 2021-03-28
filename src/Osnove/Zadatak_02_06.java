@@ -1,4 +1,4 @@
-package osnove;
+package Osnove;
 
 import java.util.Scanner;
 
